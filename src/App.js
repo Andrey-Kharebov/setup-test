@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from 'react';
+import { connect } from 'react-redux';
+import './App';
+import { fetchUsers } from './redux/reducers/users-reducer';
+import NavComponent from './components/NavComponent/NavComponent';
+import NewUserComponent from './components/NewUserComponent/NewUserComponent';
+import SortComponent from './components/SortComponent/SortComponent';
+import UsersTableComponent from './components/UsersTableComponent/UsersTableComponent';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+function App({ users, fetchUsers }) {
+  
+  useEffect(() => {
+    fetchUsers();
+  }, [])
+
+  if (!users) {
+    return <div className="container"><p>Loading...</p></div>
+  }
+
+  return ( 
+    <>
+    <NavComponent />
+    <div className="container">
+      <NewUserComponent />
+      <SortComponent />
+      <UsersTableComponent />
+    </div>  
+    </>
   );
 }
 
-export default App;
+const mapStateToProps = (state) => {
+  return {
+    users: state.usersReducer.users
+  }
+}
+
+export default connect(mapStateToProps, { fetchUsers })(App);
+

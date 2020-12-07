@@ -1,0 +1,9 @@
+.sortComponent {
+  margin-top: 15px;
+}
+
+.selectors {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

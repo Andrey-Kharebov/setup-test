@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Haley Schuman",
+    "email": "nagoket295@gmail.com",
+    "password": "k9PVqrB2",
+    "phone": "248-673-9452",
+    "status": "client"
+  },
+  {
+    "id": 2,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Perry Motley",
+    "email": "umarkernestmamont@mail.ru",
+    "password": "54QHu4Ps",
+    "phone": "765-328-5125",
+    "status": "partner"
+  },
+  {
+    "id": 3,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Genevieve Alvarez",
+    "email": "xwww.sww.s@rambler.ru",
+    "password": "8kmZp7Dm",
+    "phone": "352-538-9110",
+    "status": "client"
+  },
+  {
+    "id": 4,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Grace Barton",
+    "email": "vmidolamparda@gmail.com",
+    "password": "rdCM5u5x",
+    "phone": "251-231-4026",
+    "status": "client"
+  },
+  {
+    "id": 5,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Pearl Goodwin",
+    "email": "jlucasmar@bk.com",
+    "password": "4gdtYRHf",
+    "phone": "803-506-9225",
+    "status": "client"
+  },
+  {
+    "id": 6,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Belinda Woolridge",
+    "email": "9nedim.ka@yandex.ru",
+    "password": "QvD8v8GE",
+    "phone": "586-580-8405",
+    "status": "admin"
+  },
+  {
+    "id": 7,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Thomas Tenny",
+    "email": "hasan.altarawnau@gmail.com",
+    "password": "3UgCjpH9",
+    "phone": "267-420-6329",
+    "status": "client"
+  },
+  {
+    "id": 8,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Osmond Macy",
+    "email": "zchaki@yandex.ru",
+    "password": "Z34rjPSe",
+    "phone": "309-673-4993",
+    "status": "partner"
+  },
+  {
+    "id": 9,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Rolf Horton",
+    "email": "horton@.mail.ru",
+    "password": "4aTLc6tC",
+    "phone": "601-876-4560",
+    "status": "client"
+  },
+  {
+    "id": 10,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Chandler Bacchus",
+    "email": "wswatch_1@yandex.ru",
+    "password": "RyMJV5vc",
+    "phone": "913-687-6966",
+    "status": "client"
+  },
+  {
+    "id": 11,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Willette Cooper",
+    "email": "lmustafe.al@gmail.com",
+    "password": "7kw7KEB7",
+    "phone": "218-407-0864",
+    "status": "admin"
+  },
+  {
+    "id": 12,
+    "created_at": "Sun Dec 06 2020 03:39:51",
+    "updated_at": "Sun Dec 06 2020 03:39:51",
+    "name": "Arnold Robertson",
+    "email": "eahmed_waw9@gmail.com",
+    "password": "9T3Nx7hD",
+    "phone": "712-854-9808",
+    "status": "partner"
+  }
+]

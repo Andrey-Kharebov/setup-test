@@ -1,0 +1,28 @@
+.usersTable {
+  margin-top: 15px;
+}
+
+.usersTable button {
+  height: 20px;
+  padding: 0px;
+  line-height: 20px;
+}
+
+.actions {
+  display: flex;
+  
+}
+.editMode input {
+  font-size: 10px !important;
+} 
+
+
+@media (max-width: 992px) {
+  .editMode td {
+    height: 45px;
+  }
+  .editMode input {
+  font-size: 10px !important;
+  height: 20px;
+  } 
+}
