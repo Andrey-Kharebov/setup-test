@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Finished Setup company test task
+
+# Features:
+
+# 1. Filter (by status) & search (by email & phone)
+# 2. Add, edit & remove functionality 
+# 3. Add form validation
+# 4. LocalStorage data functionality
+# 5. Adaptive CSS
+
+# Getting Started with Create React Apps
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
